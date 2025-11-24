@@ -16,7 +16,7 @@ A surveyer wants to know what are peoples jobs and their current status of said 
 - <a href="https://github.com/thechampionjason-stack/Power-Bi-Project/blob/main/Power%20Bi%20Personal%20Project.pbix"> Project </a>
 
 ## Dashboard
-- <a href=" https://github.com/thechampionjason-stack/Power-Bi-Project/blob/main/Power%20Bi%20Dashboard.png"> 
+- <a href=" https://github.com/thechampionjason-stack/Power-Bi-Project/blob/main/Power%20Bi%20Dashboard.png"> Dashboard </a>
 
 ## Final Conclusion
 To show the different demographic of people of what job they do, their salary, and how they feel about theor current position.
