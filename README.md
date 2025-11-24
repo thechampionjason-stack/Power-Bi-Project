@@ -13,7 +13,7 @@ A surveyer wants to know what are peoples jobs and their current status of said 
 - Where are the from?
 
 ## Full Project 
-- <a href="https://github.com/thechampionjason-stack/Power-Bi-Project/blob/main/Power%20Bi%20Personal%20Project.pbix">
+- <a href="https://github.com/thechampionjason-stack/Power-Bi-Project/blob/main/Power%20Bi%20Personal%20Project.pbix"> Project </a>
 
 ## Dashboard
 - <a href=" https://github.com/thechampionjason-stack/Power-Bi-Project/blob/main/Power%20Bi%20Dashboard.png"> 
